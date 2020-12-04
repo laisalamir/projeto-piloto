@@ -26,6 +26,7 @@ h2 {
 }
 img.lado {
     float: right;
+    margin-top: -15%;
 }
 a {
     text-decoration: none;
